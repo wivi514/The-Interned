@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\wivi5\\onedrive\\documents\\unreal projects\\the-interned\\the_interned\\source\\the_interned\\the_internedgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\wivi5\\onedrive\\documents\\unreal projects\\the-interned\\the_interned\\intermediate\\build\\win64\\x64\\the_internededitor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\wivi5\\onedrive\\documents\\unreal projects\\the-interned\\the_interned\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\the_interned\\definitions.the_interned.h",
+            "c:\\users\\wivi5\\onedrive\\documents\\unreal projects\\the-interned\\the_interned\\source\\the_interned\\the_internedgamemode.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\wivi5\\onedrive\\documents\\unreal projects\\the-interned\\the_interned\\intermediate\\build\\win64\\unrealeditor\\inc\\the_interned\\uht\\the_internedgamemode.generated.h",
+            "c:\\users\\wivi5\\onedrive\\documents\\unreal projects\\the-interned\\the_interned\\source\\the_interned\\the_internedcharacter.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\wivi5\\onedrive\\documents\\unreal projects\\the-interned\\the_interned\\intermediate\\build\\win64\\unrealeditor\\inc\\the_interned\\uht\\the_internedcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

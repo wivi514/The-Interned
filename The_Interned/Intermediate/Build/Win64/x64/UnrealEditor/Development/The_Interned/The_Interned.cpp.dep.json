@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\wivi5\\onedrive\\documents\\unreal projects\\the-interned\\the_interned\\source\\the_interned\\the_interned.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\wivi5\\onedrive\\documents\\unreal projects\\the-interned\\the_interned\\intermediate\\build\\win64\\x64\\the_internededitor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\wivi5\\onedrive\\documents\\unreal projects\\the-interned\\the_interned\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\the_interned\\definitions.the_interned.h",
+            "c:\\users\\wivi5\\onedrive\\documents\\unreal projects\\the-interned\\the_interned\\source\\the_interned\\the_interned.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

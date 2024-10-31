@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\wivi5\\onedrive\\documents\\unreal projects\\the-interned\\the_interned\\source\\the_interned\\the_internedprojectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\wivi5\\onedrive\\documents\\unreal projects\\the-interned\\the_interned\\intermediate\\build\\win64\\x64\\the_internededitor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\wivi5\\onedrive\\documents\\unreal projects\\the-interned\\the_interned\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\the_interned\\definitions.the_interned.h",
+            "c:\\users\\wivi5\\onedrive\\documents\\unreal projects\\the-interned\\the_interned\\source\\the_interned\\the_internedprojectile.h",
+            "c:\\users\\wivi5\\onedrive\\documents\\unreal projects\\the-interned\\the_interned\\intermediate\\build\\win64\\unrealeditor\\inc\\the_interned\\uht\\the_internedprojectile.generated.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\projectilemovementcomponent.generated.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

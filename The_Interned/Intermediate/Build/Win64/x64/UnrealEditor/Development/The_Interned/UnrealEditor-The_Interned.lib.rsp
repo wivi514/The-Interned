@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-The_Interned.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\wivi5\OneDrive\Documents\Unreal Projects\The-Interned\The_Interned\Intermediate\Build\Win64\x64\The_InternedEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\wivi5\OneDrive\Documents\Unreal Projects\The-Interned\The_Interned\Intermediate\Build\Win64\x64\UnrealEditor\Development\The_Interned\The_Interned.init.gen.cpp.obj"
+"C:\Users\wivi5\OneDrive\Documents\Unreal Projects\The-Interned\The_Interned\Intermediate\Build\Win64\x64\UnrealEditor\Development\The_Interned\The_InternedCharacter.gen.cpp.obj"
+"C:\Users\wivi5\OneDrive\Documents\Unreal Projects\The-Interned\The_Interned\Intermediate\Build\Win64\x64\UnrealEditor\Development\The_Interned\The_InternedGameMode.gen.cpp.obj"
+"C:\Users\wivi5\OneDrive\Documents\Unreal Projects\The-Interned\The_Interned\Intermediate\Build\Win64\x64\UnrealEditor\Development\The_Interned\The_InternedPlayerController.gen.cpp.obj"
+"C:\Users\wivi5\OneDrive\Documents\Unreal Projects\The-Interned\The_Interned\Intermediate\Build\Win64\x64\UnrealEditor\Development\The_Interned\The_InternedProjectile.gen.cpp.obj"
+"C:\Users\wivi5\OneDrive\Documents\Unreal Projects\The-Interned\The_Interned\Intermediate\Build\Win64\x64\UnrealEditor\Development\The_Interned\TP_PickUpComponent.gen.cpp.obj"
+"C:\Users\wivi5\OneDrive\Documents\Unreal Projects\The-Interned\The_Interned\Intermediate\Build\Win64\x64\UnrealEditor\Development\The_Interned\TP_WeaponComponent.gen.cpp.obj"
+"C:\Users\wivi5\OneDrive\Documents\Unreal Projects\The-Interned\The_Interned\Intermediate\Build\Win64\x64\UnrealEditor\Development\The_Interned\The_Interned.cpp.obj"
+"C:\Users\wivi5\OneDrive\Documents\Unreal Projects\The-Interned\The_Interned\Intermediate\Build\Win64\x64\UnrealEditor\Development\The_Interned\The_InternedCharacter.cpp.obj"
+"C:\Users\wivi5\OneDrive\Documents\Unreal Projects\The-Interned\The_Interned\Intermediate\Build\Win64\x64\UnrealEditor\Development\The_Interned\The_InternedGameMode.cpp.obj"
+"C:\Users\wivi5\OneDrive\Documents\Unreal Projects\The-Interned\The_Interned\Intermediate\Build\Win64\x64\UnrealEditor\Development\The_Interned\The_InternedPlayerController.cpp.obj"
+"C:\Users\wivi5\OneDrive\Documents\Unreal Projects\The-Interned\The_Interned\Intermediate\Build\Win64\x64\UnrealEditor\Development\The_Interned\The_InternedProjectile.cpp.obj"
+"C:\Users\wivi5\OneDrive\Documents\Unreal Projects\The-Interned\The_Interned\Intermediate\Build\Win64\x64\UnrealEditor\Development\The_Interned\TP_PickUpComponent.cpp.obj"
+"C:\Users\wivi5\OneDrive\Documents\Unreal Projects\The-Interned\The_Interned\Intermediate\Build\Win64\x64\UnrealEditor\Development\The_Interned\TP_WeaponComponent.cpp.obj"
+"C:\Users\wivi5\OneDrive\Documents\Unreal Projects\The-Interned\The_Interned\Intermediate\Build\Win64\x64\UnrealEditor\Development\The_Interned\Default.rc2.res"
+/OUT:"C:\Users\wivi5\OneDrive\Documents\Unreal Projects\The-Interned\The_Interned\Intermediate\Build\Win64\x64\UnrealEditor\Development\The_Interned\UnrealEditor-The_Interned.lib"
